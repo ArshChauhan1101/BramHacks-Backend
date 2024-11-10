@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "complaint": "The bus is always late during rush hours.",
+        "category": 1,
+        "subcategory": 1
+    },
+    {
+        "id": 2,
+        "complaint": "The parking fees are too high.",
+        "category": 2,
+        "subcategory": 2
+    },
+    {
+        "id": 3,
+        "complaint": "Streetlights are not working.",
+        "category": 3,
+        "subcategory": 1
+    },
+    {
+        "id": 4,
+        "complaint": "The train is overcrowded during peak hours.",
+        "category": 1,
+        "subcategory": 2
+    },
+    {
+        "id": 5,
+        "complaint": "The app for ticket booking is not functioning.",
+        "category": 1,
+        "subcategory": 5
+    },
+    {
+        "id": 6,
+        "complaint": "There are no wheelchair ramps at the station.",
+        "category": 1,
+        "subcategory": 4
+    },
+    {
+        "id": 7,
+        "complaint": "Drivers are speeding in residential areas.",
+        "category": 3,
+        "subcategory": 5
+    },
+    {
+        "id": 8,
+        "complaint": "Parking spaces for disabled people are blocked.",
+        "category": 2,
+        "subcategory": 4
+    },
+    {
+        "id": 9,
+        "complaint": "Traffic signs at the intersection are unclear.",
+        "category": 3,
+        "subcategory": 3
+    },
+    {
+        "id": 10,
+        "complaint": "The subway station is very dirty.",
+        "category": 1,
+        "subcategory": 3
+    },
+    {
+        "id": 11,
+        "complaint": "There is illegal parking blocking the bus stop.",
+        "category": 2,
+        "subcategory": 3
+    },
+    {
+        "id": 12,
+        "complaint": "The pedestrian crossings near schools are unsafe.",
+        "category": 3,
+        "subcategory": 2
+    },
+    {
+        "id": 13,
+        "complaint": "Garbage bins near the station are overflowing.",
+        "category": 1,
+        "subcategory": 3
+    },
+    {
+        "id": 14,
+        "complaint": "The speed bumps on the main road are missing.",
+        "category": 3,
+        "subcategory": 5
+    },
+    {
+        "id": 15,
+        "complaint": "Special parking needs for electric vehicles are not available.",
+        "category": 2,
+        "subcategory": 4
+    },
+    {
+        "id": 16,
+        "complaint": "There is not enough public seating at bus stops.",
+        "category": 2,
+        "subcategory": 2
+    },
+    {
+        "id": 17,
+        "complaint": "There is no clear signage for bike lanes.",
+        "category": 1,
+        "subcategory": 2
+    },
+    {
+        "id": 18,
+        "complaint": "Public toilets in the area are not maintained.",
+        "category": 2,
+        "subcategory": 2
+    },
+    {
+        "id": 19,
+        "complaint": "Public toilets in the area are not maintained.",
+        "category": 2,
+        "subcategory": 2
+    },
+    {
+        "id": 20,
+        "complaint": "Public toilets in the area are not maintained.",
+        "category": 2,
+        "subcategory": 2
+    }
+]
